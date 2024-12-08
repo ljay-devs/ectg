@@ -1,0 +1,15 @@
+@media screen and (max-width: 750px) {
+    .dev-info{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+      margin: 0;
+    }
+    .dev-card-mobile {
+      width: 250px;
+    }
+
+
+    }
+  }
